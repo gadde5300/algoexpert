@@ -1,2 +1,2 @@
-# algoexpert
-Python solutions for [AlgoExpert](https://www.algoexpert.io/product).
+# Python solutions for [AlgoExpert](https://www.algoexpert.io/product).
+
