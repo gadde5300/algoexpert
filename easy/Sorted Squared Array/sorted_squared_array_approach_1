@@ -1,0 +1,9 @@
+def sortedSquaredArray(array):
+    # Write your code here.
+    square = len(array)*[0]
+	for i in range(len(array)):
+		square[i] = array[i]**2
+	
+	
+	return sorted(square)
+	
