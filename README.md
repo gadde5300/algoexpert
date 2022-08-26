@@ -18,3 +18,4 @@
 | [Non-Constructible Change](https://github.com/gadde5300/algoexpert/tree/main/easy/Non-Constructible%20Change)                             | 🟢         | Arrays               |
 | [Minimum Waiting Time](https://github.com/gadde5300/algoexpert/tree/main/easy/Minimum%20Waiting%20Time)                             | 🟢         | Arrays               |
 | [Class Photos](https://github.com/gadde5300/algoexpert/tree/main/easy/Class%20Photos)                             | 🟢         | Arrays               |
+| [Monotonic Array](https://github.com/gadde5300/algoexpert/tree/main/easy/Monotonic%20Array)                             | 🔵         | Arrays               |
