@@ -21,4 +21,5 @@
 | [Tandem Bicycle](https://github.com/gadde5300/algoexpert/tree/main/easy/Tandem%20Bicycle)                             | 🟢         | Arrays               |
 | [Nth Fibonacci](https://github.com/gadde5300/algoexpert/tree/main/easy/Nth%20Fibonacci)                             | 🟢         | Arrays               |
 | [Product Sum](https://github.com/gadde5300/algoexpert/tree/main/easy/Product%20Sum)                             | 🟢         | Recursion               |
+| [Binary Search](https://github.com/gadde5300/algoexpert/tree/main/easy/Binary%20Search)                             | 🟢         | Searching               |
 | [Monotonic Array](https://github.com/gadde5300/algoexpert/tree/main/medium/Monotonic%20Array)                             | 🔵         | Arrays               |
