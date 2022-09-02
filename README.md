@@ -2,7 +2,7 @@
 
 #### Difficulty Levels
 
-🟢 Easy  - 13/25
+🟢 Easy  - 14/25
 🔵 Medium  - 1/55
 🔴 Hard  - 0/46
 ⚫️ Very Hard - 0/34
@@ -24,4 +24,5 @@
 | [Binary Search](https://github.com/gadde5300/algoexpert/tree/main/easy/Binary%20Search)                             | 🟢         | Searching               |
 | [Find Three Largest Numbers](https://github.com/gadde5300/algoexpert/tree/main/easy/Find%20Three%20Largest%20Numbers)                             | 🟢         | Searching               |
 | [Bubble Sort](https://github.com/gadde5300/algoexpert/tree/main/easy/Bubble%20Sort)                             | 🟢         | Sorting               |
+| [Bubble Sort](https://github.com/gadde5300/algoexpert/tree/main/easy/Palindrome%20Check)                             | 🟢         | Strings               |
 | [Monotonic Array](https://github.com/gadde5300/algoexpert/tree/main/medium/Monotonic%20Array)                             | 🔵         | Arrays               |
