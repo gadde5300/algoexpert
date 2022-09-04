@@ -2,7 +2,7 @@
 
 #### Difficulty Levels
 
-🟢 Easy  - 14/25
+🟢 Easy  - 15/25
 🔵 Medium  - 1/55
 🔴 Hard  - 0/46
 ⚫️ Very Hard - 0/34
@@ -25,4 +25,5 @@
 | [Find Three Largest Numbers](https://github.com/gadde5300/algoexpert/tree/main/easy/Find%20Three%20Largest%20Numbers)                             | 🟢         | Searching               |
 | [Bubble Sort](https://github.com/gadde5300/algoexpert/tree/main/easy/Bubble%20Sort)                             | 🟢         | Sorting               |
 | [Palindrome Check](https://github.com/gadde5300/algoexpert/tree/main/easy/Palindrome%20Check)                             | 🟢         | Strings               |
+| [First Non Repeating-Character](https://github.com/gadde5300/algoexpert/tree/main/easy/First%20Non%20Repeating-Character)                             | 🟢         | Strings               |
 | [Monotonic Array](https://github.com/gadde5300/algoexpert/tree/main/medium/Monotonic%20Array)                             | 🔵         | Arrays               |
