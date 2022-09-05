@@ -2,7 +2,7 @@
 
 #### Difficulty Levels
 
-🟢 Easy  - 16/25
+🟢 Easy  - 17/25
 🔵 Medium  - 1/55
 🔴 Hard  - 0/46
 ⚫️ Very Hard - 0/34
@@ -27,4 +27,5 @@
 | [Palindrome Check](https://github.com/gadde5300/algoexpert/tree/main/easy/Palindrome%20Check)                             | 🟢         | Strings               |
 | [First Non Repeating-Character](https://github.com/gadde5300/algoexpert/tree/main/easy/First%20Non-Repeating%20Character)                             | 🟢         | Strings               |
 | [Generate Document](https://github.com/gadde5300/algoexpert/tree/main/easy/Generate%20Document)                             | 🟢         | Strings               |
+| [Generate Document](https://github.com/gadde5300/algoexpert/tree/main/easy/Caesar%20Cipher%20Encryptor)                             | 🟢         | Strings               |
 | [Monotonic Array](https://github.com/gadde5300/algoexpert/tree/main/medium/Monotonic%20Array)                             | 🔵         | Arrays               |
