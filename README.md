@@ -2,8 +2,8 @@
 
 #### Difficulty Levels
 
-🟢 Easy  - 21/25
-🔵 Medium  - 2/55
+🟢 Easy  - 22/25
+🔵 Medium  - 1/55
 🔴 Hard  - 0/46
 ⚫️ Very Hard - 0/34
 
