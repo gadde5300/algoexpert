@@ -2,7 +2,7 @@
 
 #### Difficulty Levels
 
-🟢 Easy  - 23/25
+🟢 Easy  - 24/25
 🔵 Medium  - 2/55
 🔴 Hard  - 0/46
 ⚫️ Very Hard - 0/34
@@ -34,6 +34,7 @@
 | [Find Closest Value In BST](https://github.com/gadde5300/algoexpert/tree/main/easy/Find%20Closest%20Value%20In%20BST)                             | 🟢         | Binary Search Trees              |
 | [Branch Sums](https://github.com/gadde5300/algoexpert/tree/main/easy/Branch%20Sums)                             | 🟢         | Binary Search Trees              |
 | [Node Depths](https://github.com/gadde5300/algoexpert/tree/main/easy/Node%20Depths)                             | 🟢         | Binary Search Trees              |
+| [Depth-first Search](https://github.com/gadde5300/algoexpert/tree/main/easy/Depth-first%20Search)                             | 🟢         | Graphs              |
 | [Monotonic Array](https://github.com/gadde5300/algoexpert/tree/main/medium/Monotonic%20Array)                             | 🔵         | Arrays               |
 | [Three Number Sum](https://github.com/gadde5300/algoexpert/tree/main/medium/Three%20Number%20Sum)                             | 🔵         | Arrays               |
 
