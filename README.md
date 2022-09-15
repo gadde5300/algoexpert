@@ -2,7 +2,7 @@
 
 #### Difficulty Levels
 
-🟢 Easy  - 24/25
+🟢 Easy  - 25/25
 🔵 Medium  - 2/55
 🔴 Hard  - 0/46
 ⚫️ Very Hard - 0/34
@@ -35,6 +35,7 @@
 | [Branch Sums](https://github.com/gadde5300/algoexpert/tree/main/easy/Branch%20Sums)                             | 🟢         | Binary Search Trees              |
 | [Node Depths](https://github.com/gadde5300/algoexpert/tree/main/easy/Node%20Depths)                             | 🟢         | Binary Search Trees              |
 | [Depth-first Search](https://github.com/gadde5300/algoexpert/tree/main/easy/Depth-first%20Search)                             | 🟢         | Graphs              |
+| [Remove Duplicates From Linked List](https://github.com/gadde5300/algoexpert/tree/main/easy/Remove%20Duplicates%20From%20Linked%20List)                             | 🟢         | Linked Lists              |
 | [Monotonic Array](https://github.com/gadde5300/algoexpert/tree/main/medium/Monotonic%20Array)                             | 🔵         | Arrays               |
 | [Three Number Sum](https://github.com/gadde5300/algoexpert/tree/main/medium/Three%20Number%20Sum)                             | 🔵         | Arrays               |
 
