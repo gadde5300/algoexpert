@@ -3,7 +3,7 @@
 #### Difficulty Levels
 
 🟢 Easy  - 25/25
-🔵 Medium  - 2/55
+🔵 Medium  - 3/55
 🔴 Hard  - 0/46
 ⚫️ Very Hard - 0/34
 
@@ -38,4 +38,5 @@
 | [Remove Duplicates From Linked List](https://github.com/gadde5300/algoexpert/tree/main/easy/Remove%20Duplicates%20From%20Linked%20List)                             | 🟢         | Linked Lists              |
 | [Monotonic Array](https://github.com/gadde5300/algoexpert/tree/main/medium/Monotonic%20Array)                             | 🔵         | Arrays               |
 | [Three Number Sum](https://github.com/gadde5300/algoexpert/tree/main/medium/Three%20Number%20Sum)                             | 🔵         | Arrays               |
+| [Remove Kth Node From End](https://github.com/gadde5300/algoexpert/tree/main/medium/Remove%20Kth%20Node%20From%20End)                             | 🔵         | Linked Lists               |
 
