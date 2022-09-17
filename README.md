@@ -16,9 +16,9 @@
 | [Tournament Winner](https://github.com/gadde5300/algoexpert/tree/main/easy/Tournament%20Winner/)                                   | 🟢         | Arrays               |
 | [Sorted Squared Array](https://github.com/gadde5300/algoexpert/tree/main/easy/Sorted%20Squared%20Array/)                             | 🟢         | Arrays               |
 | [Non-Constructible Change](https://github.com/gadde5300/algoexpert/tree/main/easy/Non-Constructible%20Change)                             | 🟢         | Arrays               |
-| [Minimum Waiting Time](https://github.com/gadde5300/algoexpert/tree/main/easy/Minimum%20Waiting%20Time)                             | 🟢         | Arrays               |
-| [Class Photos](https://github.com/gadde5300/algoexpert/tree/main/easy/Class%20Photos)                             | 🟢         | Arrays               |
-| [Tandem Bicycle](https://github.com/gadde5300/algoexpert/tree/main/easy/Tandem%20Bicycle)                             | 🟢         | Arrays               |
+| [Minimum Waiting Time](https://github.com/gadde5300/algoexpert/tree/main/easy/Minimum%20Waiting%20Time)                             | 🟢         | Greedy Algorithms               |
+| [Class Photos](https://github.com/gadde5300/algoexpert/tree/main/easy/Class%20Photos)                             | 🟢         | Greedy Algorithms               |
+| [Tandem Bicycle](https://github.com/gadde5300/algoexpert/tree/main/easy/Tandem%20Bicycle)                             | 🟢         | Greedy Algorithms               |
 | [Nth Fibonacci](https://github.com/gadde5300/algoexpert/tree/main/easy/Nth%20Fibonacci)                             | 🟢         | Arrays               |
 | [Product Sum](https://github.com/gadde5300/algoexpert/tree/main/easy/Product%20Sum)                             | 🟢         | Recursion               |
 | [Binary Search](https://github.com/gadde5300/algoexpert/tree/main/easy/Binary%20Search)                             | 🟢         | Searching               |
@@ -39,4 +39,5 @@
 | [Monotonic Array](https://github.com/gadde5300/algoexpert/tree/main/medium/Monotonic%20Array)                             | 🔵         | Arrays               |
 | [Three Number Sum](https://github.com/gadde5300/algoexpert/tree/main/medium/Three%20Number%20Sum)                             | 🔵         | Arrays               |
 | [Remove Kth Node From End](https://github.com/gadde5300/algoexpert/tree/main/medium/Remove%20Kth%20Node%20From%20End)                             | 🔵         | Linked Lists               |
+| [Task Assignment](https://github.com/gadde5300/algoexpert/tree/main/easy/Task%20Assignment)                             | 🔵         | Greedy Algorithms               |
 
