@@ -39,5 +39,5 @@
 | [Monotonic Array](https://github.com/gadde5300/algoexpert/tree/main/medium/Monotonic%20Array)                             | 🔵         | Arrays               |
 | [Three Number Sum](https://github.com/gadde5300/algoexpert/tree/main/medium/Three%20Number%20Sum)                             | 🔵         | Arrays               |
 | [Remove Kth Node From End](https://github.com/gadde5300/algoexpert/tree/main/medium/Remove%20Kth%20Node%20From%20End)                             | 🔵         | Linked Lists               |
-| [Task Assignment](https://github.com/gadde5300/algoexpert/tree/main/easy/Task%20Assignment)                             | 🔵         | Greedy Algorithms               |
+| [Task Assignment](https://github.com/gadde5300/algoexpert/tree/main/medium/Task%20Assignment)                             | 🔵         | Greedy Algorithms               |
 
