@@ -40,4 +40,6 @@
 | [Three Number Sum](https://github.com/gadde5300/algoexpert/tree/main/medium/Three%20Number%20Sum)                             | 🔵         | Arrays               |
 | [Remove Kth Node From End](https://github.com/gadde5300/algoexpert/tree/main/medium/Remove%20Kth%20Node%20From%20End)                             | 🔵         | Linked Lists               |
 | [Task Assignment](https://github.com/gadde5300/algoexpert/tree/main/medium/Task%20Assignment)                             | 🔵         | Greedy Algorithms               |
+| [Valid Starting City](https://github.com/gadde5300/algoexpert/tree/main/medium/Valid%20Starting%20City)                             | 🔵         | Greedy Algorithms               |
+
 
