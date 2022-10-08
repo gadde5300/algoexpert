@@ -3,7 +3,7 @@
 #### Difficulty Levels
 
 🟢 Easy  - 25/25
-🔵 Medium  - 4/55
+🔵 Medium  - 5/55
 🔴 Hard  - 0/46
 ⚫️ Very Hard - 0/34
 
@@ -41,5 +41,6 @@
 | [Remove Kth Node From End](https://github.com/gadde5300/algoexpert/tree/main/medium/Remove%20Kth%20Node%20From%20End)                             | 🔵         | Linked Lists               |
 | [Task Assignment](https://github.com/gadde5300/algoexpert/tree/main/medium/Task%20Assignment)                             | 🔵         | Greedy Algorithms               |
 | [Valid Starting City](https://github.com/gadde5300/algoexpert/tree/main/medium/Valid%20Starting%20City)                             | 🔵         | Greedy Algorithms               |
+| [Minimun Characters For Words](https://github.com/gadde5300/algoexpert/tree/main/medium/Minimun%20Characters%20For%20Words)                             | 🔵         | Greedy Algorithms               |
 
 
